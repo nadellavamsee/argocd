@@ -12,7 +12,7 @@ metadata:
   labels:
     app: nginx
   name: nginx-svc-demo
-  namespace: default
+  namespace: nginx 
   resourceVersion: "214138"
   uid: 9c700a7c-7b5b-48d5-b583-b07c0ae632d6
 spec:
